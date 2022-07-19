@@ -17,6 +17,13 @@ Word blocks make your article become interactive and collaborative. Everyone can
 
 Assuming `"any internet text"` is curated by `wallet_A` as `block_A` (including `text`, `creator`, `referer`, `url`, `comments`, `tags`...), then `wallet_B` writes `block_B` in which `block_A` is referenced with new comments (this leads to another `block_A_ref`) and publish `article_B`. When you see it,  `block_A_ref` -> `block_A` -> `any internet text` can be discovered with attached ownerships of `wallet_B`, `wallet_A`, `original_author`.
 
+## How to install
+
+1. Download or clone this `Wordblock` repository to your local disk;
+2. Unzip and find the `extension` folder;
+3. Open *Google Chrome* browser, click `extensions` icon, go `manage extensions`;
+4. Click `Load unpacked`, choose the `extension` folder you downloaded;
+5. Go explore `Wordblock` while reading and writing!
 
 ## Roadmap
 1. Mirror as a starting soil 用户在如mirror等编辑器中写作时，可以通过((block keyworks))/[[page title]]全局搜索相关的文字块或文章引用到当前文本中。
